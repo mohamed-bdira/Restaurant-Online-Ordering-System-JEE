@@ -1,6 +1,7 @@
-package org.example.restaurantordersystem;
+package com.example.restaurant;
 
 import java.io.*;
+
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
